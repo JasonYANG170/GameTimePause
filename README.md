@@ -1,3 +1,5 @@
+[简体中文](README.md) | [English](README_en.md)
+
 <div align="center">
     <h1>GameTimePause 加速器时长暂停脚本</h1>
     <img src="https://img.shields.io/github/license/JasonYANG170/GameTimePause?label=License&style=for-the-badge">
